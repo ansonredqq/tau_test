@@ -39,5 +39,4 @@ int main(void){
 
 ### 图和网址
 [百度链接](http://baidu.com)
-![图片](https://liaoxuefeng.com/books/git/what-is-git/svn-vs-git/centralized.jpg)add test code
-masetr change
+![图片](https://liaoxuefeng.com/books/git/what-is-git/svn-vs-git/centralized.jpg)merge one
